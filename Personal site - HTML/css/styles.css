@@ -1,0 +1,13 @@
+body {
+  background-color: #f48484;
+}
+hr {
+  border-style: solid;
+  border-color: wheat;
+  border-width: 2px;
+  width: 99%;
+}
+h1,
+h3 {
+  color: #1c82ad;
+}
